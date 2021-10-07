@@ -51,7 +51,7 @@ public class Client {
     public static final String CHECKOUT_ENDPOINT_TEST = "https://checkout-test.adyen.com/checkout";
     public static final String CHECKOUT_ENDPOINT_LIVE_SUFFIX = "-checkout-live.adyenpayments.com/checkout";
     public static final String CHECKOUT_ENDPOINT_CERT_LIVE = "https://checkoutcert-live-%s.adyen.com/checkout";
-    public static final String CHECKOUT_API_VERSION = "v67";
+    public static final String CHECKOUT_API_VERSION = "v68";
     public static final String DISPUTE_ENDPOINT_TEST = "https://ca-test.adyen.com/ca/services/DisputeService/";
     public static final String DISPUTE_ENDPOINT_LIVE = "https://ca-live.adyen.com/ca/services/DisputeService/";
     public static final String DISPUTE_API_VERSION = "v30";
